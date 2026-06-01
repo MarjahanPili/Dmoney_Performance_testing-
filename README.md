@@ -2,7 +2,7 @@
 
 ![JMeter](https://img.shields.io/badge/Apache-JMeter-D22128?style=for-the-badge&logo=apache)
 ![Performance Testing](https://img.shields.io/badge/Performance-Testing-blue?style=for-the-badge)
-![CSV Data Driven](https://img.shields.io/badge/CSV-Data%20Driven-success?style=for-the-badge)
+![CSV](https://img.shields.io/badge/CSV-Data%20Driven-success?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)
 
 ---
@@ -25,7 +25,7 @@ The project includes:
 
 ---
 
-# 🎯 Assignment Scenario
+# 🎯 Scenario
 
 The following scenarios were implemented successfully:
 
@@ -39,6 +39,9 @@ The following scenarios were implemented successfully:
 - 5 Customers make payments to 2 Merchants
 
 ---
+# 🎯 Report
+<img width="1870" height="994" alt="image" src="https://github.com/user-attachments/assets/bb7ddffa-ab6b-46a0-8bba-b7733f68afd7" />
+
 
 # 🛠️ Tools & Technologies Used
 
